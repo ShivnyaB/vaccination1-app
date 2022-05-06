@@ -1,0 +1,19 @@
+.valid{
+    border : 3px rgb(234, 142, 21) solid;
+    background-color: rgb(235, 227, 227);
+    width: 100%;
+    border-radius: 15Px;
+}
+
+.invalid{
+    border: 3px rgba(82, 65, 65, 0.644) solid;
+    background-color: rgba(36, 48, 102, 0.041);
+    width: 100%;
+    border-radius: 15px;
+}
+
+.my-button{
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 2px 2px rgb(12, 10, 10);
+}
